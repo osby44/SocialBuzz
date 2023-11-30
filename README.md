@@ -64,7 +64,7 @@ This task was tackled and the top 5 most popular categories was found as asked, 
 - It was found that animals and science are the two most popular categories, suggesting that users like "real-life" and "factual" content
 - It was also found that food was a common theme amongst popular content and the most popular food category was healthy eating. This could be a signal to show the types of people that are using the platform, and this insight could be used to boost engagement even further. For example, to run a campaign with content focused on this category or work with healthy eating brands to promote content.
 
-Click [here](https://app.powerbi.com/links/F7P_DRYFGO?ctid=3922f60b-e8a2-4862-9142-e8910c694245&pbi_source=linkShare) to view Power BI visualization on the web.
+Click [here](https://app.powerbi.com/links/ol9HCR05SI?ctid=3922f60b-e8a2-4862-9142-e8910c694245&pbi_source=linkShare) to view Power BI visualization on the web.
 
 
 ##### Reference: Accenture Social Buzz Project

@@ -39,7 +39,7 @@ Next was to Clean the data by:
 
 To complete the data modelling, a final data set was created by merging the three tables together with Reaction table as the base table, then first joining the relevant columns from the Content data set, and then the Reaction Types data set using a “VLOOKUP” formula.
  
-***Data analysis***
+***Data analysis & Visualization***
 
 Using the new dataset to figure out the Top 5 performing categories, the total scores for each category were added up using the “Sum If” formula.
 

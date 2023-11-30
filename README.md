@@ -1,4 +1,4 @@
-# Background
+## Background
 
 Social Buzz is a fast-growing technology unicorn that need to adapt quickly to its global scale. It needs help analyzing its huge data to find the top 5 most popular categories of content. To give a background on how much data Social Buzz has been creating: - the platform receives over 100,000 posts per day which amounts to 36,500,000 posts every year of which, this is all unstructured data making it very hard to make sense of.
 
@@ -43,8 +43,7 @@ To complete the data modelling, a final data set was created by merging the thre
 
 Using the new dataset to figure out the Top 5 performing categories, the total scores for each category were added up using the “Sum If” formula.
 
-![Screenshot (97)](https://github.com/osby44/SocialBuzz/assets/141450625/a4ae5307-4aec-4d8a-8121-6c5a38b87ca0)
-
+![Screenshot (111)](https://github.com/osby44/SocialBuzz/assets/141450625/6dd3fa8e-f126-49c2-a766-61e54c8d0f10)
 
 ***Findings/insights***
 
